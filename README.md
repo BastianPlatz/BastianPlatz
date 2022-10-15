@@ -2,6 +2,7 @@
 I am a fullstack software engineer from Berlin, Germany.
 
 🔭 Working on multiple frontend and backend projects using React and Nodejs
+
 🌱 Learning about ML, NLP, and NLG.
 
 <br>
